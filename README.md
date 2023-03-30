@@ -7,7 +7,7 @@ Maps of various sizes and parameters can be generated. It is possible to save an
 
 ## Example
 This is one of the maps generated:
-![Image](https://github.com/MateuszKochanski/Map-generator/blob/main/images/mapa.jpg)
+![Image](https://github.com/MateuszKochanski/Map-generator/blob/main/images/mapa.png)
 
 ## Used
 
